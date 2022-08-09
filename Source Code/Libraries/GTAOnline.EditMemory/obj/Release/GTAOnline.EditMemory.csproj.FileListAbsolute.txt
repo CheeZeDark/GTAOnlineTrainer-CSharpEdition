@@ -1,0 +1,9 @@
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\bin\Release\GTAOnline.EditMemory.dll
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\bin\Release\GTAOnline.EditMemory.pdb
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\bin\Release\Memory.dll
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\bin\Release\Memory.xml
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\obj\Release\GTAOnline.EditMemory.csproj.AssemblyReference.cache
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\obj\Release\GTAOnline.EditMemory.csproj.CoreCompileInputs.cache
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\obj\Release\GTAOnline.EditMemory.csproj.CopyComplete
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\obj\Release\GTAOnline.EditMemory.dll
+C:\Users\Elone Mask\source\repos\GTAOnline.EditMemory\GTAOnline.EditMemory\obj\Release\GTAOnline.EditMemory.pdb

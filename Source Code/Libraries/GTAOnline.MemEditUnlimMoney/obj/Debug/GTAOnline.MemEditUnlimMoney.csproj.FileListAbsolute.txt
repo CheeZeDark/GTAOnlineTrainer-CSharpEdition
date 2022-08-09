@@ -1,0 +1,10 @@
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\bin\Debug\GTAOnline.MemEditUnlimMoney.dll
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\bin\Debug\GTAOnline.MemEditUnlimMoney.pdb
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\bin\Debug\GTAOnline.EditMemory.dll
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\bin\Debug\Memory.dll
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\bin\Debug\GTAOnline.EditMemory.pdb
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\bin\Debug\Memory.xml
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\obj\Debug\GTAOnline.MemEditUnlimMoney.csproj.CoreCompileInputs.cache
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\obj\Debug\GTAOnline.MemEditUnlimMoney.csproj.CopyComplete
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\obj\Debug\GTAOnline.MemEditUnlimMoney.dll
+C:\Users\Elone Mask\source\repos\GTAOnline.MemEditUnlimMoney\GTAOnline.MemEditUnlimMoney\obj\Debug\GTAOnline.MemEditUnlimMoney.pdb
