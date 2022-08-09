@@ -14,7 +14,7 @@ namespace GTAOnline.EditMemory
         public Mem mem;
         public bool EditMem(string find_address, string write_address, string type_of_addresses, int value)
         {
-            if (mem.OpenProcess(mem.GetProcIdFromName("GTAV.exe")))
+            if (mem.OpenProcess(mem.GetProcIdFromName("GTA5.exe")))
             {
                 mem.ReadInt(find_address);
                 mem.WriteMemory(write_address, type_of_addresses, value.ToString());
@@ -29,7 +29,7 @@ namespace GTAOnline.EditMemory
         }
         public void FindGTAVProcess()
         {
-            Process[] gta5 = Process.GetProcessesByName("GTAV.exe");
+            Process[] gta5 = Process.GetProcessesByName("GTA5.exe");
             foreach(Process mk_gta5 in gta5)
             {
                 if(gta5.Length == 1)
@@ -40,7 +40,7 @@ namespace GTAOnline.EditMemory
                 }
                 else
                 {
-                    throw new Exception("GTAV Not Founded... It's Very Bad :(");
+                    throw new Exception("GTA5 Not Founded... It's Very Bad :(");
                 }
             }
         }
